@@ -27,27 +27,27 @@ body {
 }
 @media (max-width: 1000px) {
     body {
-        width: 100vw;
+        width: 100dvw;
         flex-wrap: wrap;
         overflow-y: auto;
     }
     #Body {
-        width: 100vw;
+        width: 100dvw;
         padding: 10px;
     }
     #tableContainer {
-        width: 100vw;
+        width: 100dvw;
         scale: 0.9;
         transform: translateX(-35px);
     }
     #InfoForm {
-        width: 70vw;
+        width: 70dvw;
     }
     #InfoForm > h1 {
         width: 100%;
     }
     #StatDisplay {
-        width: 90vw;
+        width: 90dvw;
         margin-left: 50px;
     }
 }
