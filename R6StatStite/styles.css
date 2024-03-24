@@ -59,13 +59,12 @@ body {
 }
 #Background {
     z-index: -1;
-    width: 100vw;
+    width: 200vw;
     height: 240vh;
     position: absolute;
     top: 0;
     left: 0;
     background: rgb(0, 0, 0, 0.7);
-    background-size: cover;
 }
 #Body {
     padding: 50px;
